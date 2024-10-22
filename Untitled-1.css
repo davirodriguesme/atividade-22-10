@@ -1,0 +1,33 @@
+
+
+*{
+    font-family: Arial , helvetica, sans-serif;
+    text-align: center;
+}
+
+.ins 
+{
+ 
+}
+
+.form{
+  background-color: rgb(233, 227, 255);
+  text-align: center;
+  padding: 2px 5px;
+  
+}
+
+.insert{
+    font: sans-serif,bold;
+    width: 130px;
+
+}
+
+title{
+    text-align: center;
+    font: bold
+}
+
+body{
+    background-color: rgb(230, 224, 253)
+}
